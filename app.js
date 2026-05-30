@@ -17,7 +17,7 @@ const groupTotals = groups.map((group) => ({
 
 const state = {
   query: '',
-  group: 'All',
+  group: 'Tous',
 };
 
 app.innerHTML = `
