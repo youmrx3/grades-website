@@ -135,7 +135,7 @@ export const groups = [
       {
         "name": "SEGUENI/سقني Mohammed salah /محمد الصالح",
         "group": "G01",
-        "grade": 0
+        "grade": 19
       },
       {
         "name": "SEKKAL/سقال Aymen /أيمن",
@@ -220,7 +220,7 @@ export const groups = [
       {
         "name": "BELAKHDAR/بلخضر Rahil/رحيل",
         "group": "G02",
-        "grade": 0
+        "grade": 19
       },
       {
         "name": "BELFITAH/بلفيطح Hadil/هديل",
