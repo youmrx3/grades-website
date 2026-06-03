@@ -110,7 +110,7 @@ export const groups = [
       {
         "name": "SAIDAT/سعيدات KAOUTHER/كوثر",
         "group": "G01",
-        "grade": 19
+        "grade": 20
       },
       {
         "name": "SAMMARI/سماري MANAR/منار",
@@ -145,12 +145,12 @@ export const groups = [
       {
         "name": "TAHI/طاحي Wassim /وسيم",
         "group": "G01",
-        "grade": 16
+        "grade": 20
       },
       {
         "name": "YAHIAOUI/يحياوي Abdelmoumene/عبدالمؤمن",
         "group": "G01",
-        "grade": 16
+        "grade": 20
       },
       {
         "name": "ZIDOUNE/زيدون Abdessamad /عبد الصمد",
@@ -235,7 +235,7 @@ export const groups = [
       {
         "name": "BENATTIA/بن عطية ISLAM/اسلام",
         "group": "G02",
-        "grade": 19
+        "grade": 20
       },
       {
         "name": "BENHAMANI/بن حماني Sara /سارة",
@@ -310,7 +310,7 @@ export const groups = [
       {
         "name": "HABBOUCHE/حبوش Ahmed ibrahim abdelkayoum/أحمد ابراهيم عبدالقيوم",
         "group": "G02",
-        "grade": 16
+        "grade": 20
       },
       {
         "name": "HAMITOUCHE/حميطوش Fouad /فؤاد",
@@ -330,7 +330,7 @@ export const groups = [
       {
         "name": "MEHARGA/محارقة Hocine mustapha /حسين مصطفى",
         "group": "G02",
-        "grade": 19
+        "grade": 20
       },
       {
         "name": "MESSAOUDENE/مسعودان Aya/اية",
